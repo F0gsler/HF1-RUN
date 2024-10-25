@@ -1,0 +1,15 @@
+C:\Users\dfkis\Source\Repos\HF1\bin\Debug\net8.0\Hangman.exe
+C:\Users\dfkis\Source\Repos\HF1\bin\Debug\net8.0\Hangman.deps.json
+C:\Users\dfkis\Source\Repos\HF1\bin\Debug\net8.0\Hangman.runtimeconfig.json
+C:\Users\dfkis\Source\Repos\HF1\bin\Debug\net8.0\Hangman.dll
+C:\Users\dfkis\Source\Repos\HF1\bin\Debug\net8.0\Hangman.pdb
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.AssemblyInfo.cs
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.dll
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\refint\Hangman.dll
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.pdb
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\ref\Hangman.dll
+C:\Users\dfkis\Source\Repos\HF1\obj\Debug\net8.0\Hangman.sourcelink.json
